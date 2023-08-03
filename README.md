@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manuelsawade, Software Engineer @adesso SE
 - 👀 I’m interested in c#, .net, Azure, web3, Rust
-- 🌱 I’m currently learning Rust, Web Development, Blockchain, Smart Contracts, Machine Learning
+- 🌱 I’m currently learning Rust, Web Development, Smart Contracts, Machine Learning
 - 💞️ I’m looking to collaborate on everything
 
 <!---
