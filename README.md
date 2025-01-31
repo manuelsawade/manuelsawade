@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manuelsawade, Software Engineer @adesso SE
+- 👋 Hi, I’m @manuelsawade, Senior Software Engineer @adesso SE
 - 👀 I’m interested in c#, .net, Azure, web3, Rust
 - 🌱 I’m currently learning Rust, Web Development, Smart Contracts, Machine Learning
 - 💞️ I’m looking to collaborate on everything
